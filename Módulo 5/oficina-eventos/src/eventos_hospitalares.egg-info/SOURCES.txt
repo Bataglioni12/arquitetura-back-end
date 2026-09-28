@@ -1,0 +1,11 @@
+pyproject.toml
+src/eventos_hospitalares.egg-info/PKG-INFO
+src/eventos_hospitalares.egg-info/SOURCES.txt
+src/eventos_hospitalares.egg-info/dependency_links.txt
+src/eventos_hospitalares.egg-info/requires.txt
+src/eventos_hospitalares.egg-info/top_level.txt
+src/hospital/__init__.py
+src/hospital/eventos/__init__ .py
+src/hospital/eventos/consumidor.py
+src/hospital/eventos/publicador.py
+tests/test_event_idempotency.py

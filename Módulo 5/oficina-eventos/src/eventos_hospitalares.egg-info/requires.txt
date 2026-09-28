@@ -1,0 +1,7 @@
+aio-pika
+pydantic
+
+[dev]
+pytest
+pytest-asyncio
+httpx

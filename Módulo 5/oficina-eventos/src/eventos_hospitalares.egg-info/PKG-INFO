@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: eventos-hospitalares
+Version: 0.1.0
+Summary: Publicador, consumidor idempotente e DLQ, oficina do módulo 5
+Requires-Python: >=3.11
+Requires-Dist: aio-pika
+Requires-Dist: pydantic
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: pytest-asyncio; extra == "dev"
+Requires-Dist: httpx; extra == "dev"
